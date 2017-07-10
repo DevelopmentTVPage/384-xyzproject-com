@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "xyzproject"
+baseURL = "https:\/\/xyzproject.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "ricky.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
